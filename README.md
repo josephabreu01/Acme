@@ -1,6 +1,6 @@
 # Acme
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
-[![npm version](https://badge.fury.io/js/jtest.svg)](https://badge.fury.io/js/jtest)
+
 
  I used Visual Studio Code to program
 
