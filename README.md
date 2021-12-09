@@ -4,9 +4,7 @@
 
  I used Visual Studio Code to program
 
-To run de program I used a local server, I used Live Server, you can install it in the extensions tab and search for LiveServer
-
-
+To run de program I used a local server, I used Live Server 
 
 ## App 
 
