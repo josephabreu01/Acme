@@ -21,24 +21,14 @@ archivo.addEventListener("change", function () {
         employee.push(empleado(nombre, fechas));
 
         
-        //let separar = lineas[index].match(/[A-Z]+/g);
-
-        //  let comparacion = lineas[index].match(/(SU|separar)/g).length
+       
       }
 
-      //output.textContent = employee;
-      //compararFechas(employee);
       
       console.log({ employee });
       
-         employee.reduce((acc , curr) =>{
-           
-
-           console.log(curr ) 
-         })
-       
-
-       
+         
+     
      
     });
 
